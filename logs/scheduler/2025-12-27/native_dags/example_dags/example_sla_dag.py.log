@@ -1,0 +1,32 @@
+[2025-12-27T03:03:35.000+0000] {processor.py:161} INFO - Started process (PID=25512) to work on /workspaces/Airflow-domain-etl/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-12-27T03:03:35.001+0000] {processor.py:830} INFO - Processing file /workspaces/Airflow-domain-etl/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-12-27T03:03:35.002+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:03:35.001+0000] {dagbag.py:538} INFO - Filling up the DagBag from /workspaces/Airflow-domain-etl/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-12-27T03:03:35.008+0000] {processor.py:840} INFO - DAG(s) 'example_sla_dag' retrieved from /workspaces/Airflow-domain-etl/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-12-27T03:03:35.126+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:03:35.126+0000] {override.py:1769} INFO - Created Permission View: can delete on DAG:example_sla_dag
+[2025-12-27T03:03:35.138+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:03:35.138+0000] {override.py:1769} INFO - Created Permission View: can edit on DAG:example_sla_dag
+[2025-12-27T03:03:35.154+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:03:35.154+0000] {override.py:1769} INFO - Created Permission View: can read on DAG:example_sla_dag
+[2025-12-27T03:03:35.154+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:03:35.154+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-12-27T03:03:35.161+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:03:35.161+0000] {dag.py:3058} INFO - Creating ORM DAG for example_sla_dag
+[2025-12-27T03:03:35.170+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:03:35.170+0000] {dag.py:3823} INFO - Setting next_dagrun for example_sla_dag to 2025-12-27 03:00:00+00:00, run_after=2025-12-27 03:02:00+00:00
+[2025-12-27T03:03:35.184+0000] {processor.py:183} INFO - Processing /workspaces/Airflow-domain-etl/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.186 seconds
+[2025-12-27T03:04:24.115+0000] {processor.py:161} INFO - Started process (PID=26094) to work on /workspaces/Airflow-domain-etl/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-12-27T03:04:24.115+0000] {processor.py:830} INFO - Processing file /workspaces/Airflow-domain-etl/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-12-27T03:04:24.116+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:04:24.116+0000] {dagbag.py:538} INFO - Filling up the DagBag from /workspaces/Airflow-domain-etl/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-12-27T03:04:24.122+0000] {processor.py:840} INFO - DAG(s) 'example_sla_dag' retrieved from /workspaces/Airflow-domain-etl/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-12-27T03:04:24.132+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:04:24.132+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-12-27T03:04:24.147+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:04:24.147+0000] {dag.py:3823} INFO - Setting next_dagrun for example_sla_dag to 2025-12-27 03:02:00+00:00, run_after=2025-12-27 03:04:00+00:00
+[2025-12-27T03:04:24.162+0000] {processor.py:183} INFO - Processing /workspaces/Airflow-domain-etl/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.049 seconds
+[2025-12-27T03:05:10.575+0000] {processor.py:161} INFO - Started process (PID=26492) to work on /workspaces/Airflow-domain-etl/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-12-27T03:05:10.576+0000] {processor.py:830} INFO - Processing file /workspaces/Airflow-domain-etl/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-12-27T03:05:10.577+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:05:10.577+0000] {dagbag.py:538} INFO - Filling up the DagBag from /workspaces/Airflow-domain-etl/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-12-27T03:05:10.583+0000] {processor.py:840} INFO - DAG(s) 'example_sla_dag' retrieved from /workspaces/Airflow-domain-etl/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-12-27T03:05:10.593+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:05:10.593+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-12-27T03:05:10.609+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:05:10.609+0000] {dag.py:3823} INFO - Setting next_dagrun for example_sla_dag to 2025-12-27 03:02:00+00:00, run_after=2025-12-27 03:04:00+00:00
+[2025-12-27T03:05:10.623+0000] {processor.py:183} INFO - Processing /workspaces/Airflow-domain-etl/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.050 seconds
+[2025-12-27T03:05:59.702+0000] {processor.py:161} INFO - Started process (PID=27072) to work on /workspaces/Airflow-domain-etl/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-12-27T03:05:59.703+0000] {processor.py:830} INFO - Processing file /workspaces/Airflow-domain-etl/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-12-27T03:05:59.704+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:05:59.703+0000] {dagbag.py:538} INFO - Filling up the DagBag from /workspaces/Airflow-domain-etl/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-12-27T03:05:59.710+0000] {processor.py:840} INFO - DAG(s) 'example_sla_dag' retrieved from /workspaces/Airflow-domain-etl/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-12-27T03:05:59.720+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:05:59.720+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-12-27T03:05:59.735+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:05:59.735+0000] {dag.py:3823} INFO - Setting next_dagrun for example_sla_dag to 2025-12-27 03:02:00+00:00, run_after=2025-12-27 03:04:00+00:00
+[2025-12-27T03:05:59.750+0000] {processor.py:183} INFO - Processing /workspaces/Airflow-domain-etl/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.050 seconds

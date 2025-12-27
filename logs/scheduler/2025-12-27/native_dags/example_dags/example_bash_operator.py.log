@@ -1,0 +1,32 @@
+[2025-12-27T03:04:06.334+0000] {processor.py:161} INFO - Started process (PID=25890) to work on /workspaces/Airflow-domain-etl/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-12-27T03:04:06.335+0000] {processor.py:830} INFO - Processing file /workspaces/Airflow-domain-etl/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-12-27T03:04:06.335+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:04:06.335+0000] {dagbag.py:538} INFO - Filling up the DagBag from /workspaces/Airflow-domain-etl/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-12-27T03:04:06.346+0000] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /workspaces/Airflow-domain-etl/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-12-27T03:04:06.426+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:04:06.426+0000] {override.py:1769} INFO - Created Permission View: can delete on DAG:example_bash_operator
+[2025-12-27T03:04:06.435+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:04:06.434+0000] {override.py:1769} INFO - Created Permission View: can edit on DAG:example_bash_operator
+[2025-12-27T03:04:06.441+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:04:06.441+0000] {override.py:1769} INFO - Created Permission View: can read on DAG:example_bash_operator
+[2025-12-27T03:04:06.441+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:04:06.441+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-12-27T03:04:06.448+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:04:06.448+0000] {dag.py:3058} INFO - Creating ORM DAG for example_bash_operator
+[2025-12-27T03:04:06.454+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:04:06.454+0000] {dag.py:3823} INFO - Setting next_dagrun for example_bash_operator to 2025-12-26 00:00:00+00:00, run_after=2025-12-27 00:00:00+00:00
+[2025-12-27T03:04:06.468+0000] {processor.py:183} INFO - Processing /workspaces/Airflow-domain-etl/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.136 seconds
+[2025-12-27T03:04:57.085+0000] {processor.py:161} INFO - Started process (PID=26369) to work on /workspaces/Airflow-domain-etl/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-12-27T03:04:57.086+0000] {processor.py:830} INFO - Processing file /workspaces/Airflow-domain-etl/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-12-27T03:04:57.086+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:04:57.086+0000] {dagbag.py:538} INFO - Filling up the DagBag from /workspaces/Airflow-domain-etl/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-12-27T03:04:57.095+0000] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /workspaces/Airflow-domain-etl/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-12-27T03:04:57.111+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:04:57.110+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-12-27T03:04:57.125+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:04:57.125+0000] {dag.py:3823} INFO - Setting next_dagrun for example_bash_operator to 2025-12-26 00:00:00+00:00, run_after=2025-12-27 00:00:00+00:00
+[2025-12-27T03:04:57.140+0000] {processor.py:183} INFO - Processing /workspaces/Airflow-domain-etl/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.057 seconds
+[2025-12-27T03:05:46.640+0000] {processor.py:161} INFO - Started process (PID=26879) to work on /workspaces/Airflow-domain-etl/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-12-27T03:05:46.641+0000] {processor.py:830} INFO - Processing file /workspaces/Airflow-domain-etl/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-12-27T03:05:46.641+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:05:46.641+0000] {dagbag.py:538} INFO - Filling up the DagBag from /workspaces/Airflow-domain-etl/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-12-27T03:05:46.650+0000] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /workspaces/Airflow-domain-etl/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-12-27T03:05:46.671+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:05:46.671+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-12-27T03:05:46.692+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:05:46.692+0000] {dag.py:3823} INFO - Setting next_dagrun for example_bash_operator to 2025-12-26 00:00:00+00:00, run_after=2025-12-27 00:00:00+00:00
+[2025-12-27T03:05:46.717+0000] {processor.py:183} INFO - Processing /workspaces/Airflow-domain-etl/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.079 seconds
+[2025-12-27T03:06:45.534+0000] {processor.py:161} INFO - Started process (PID=27592) to work on /workspaces/Airflow-domain-etl/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-12-27T03:06:45.535+0000] {processor.py:830} INFO - Processing file /workspaces/Airflow-domain-etl/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-12-27T03:06:45.536+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:06:45.535+0000] {dagbag.py:538} INFO - Filling up the DagBag from /workspaces/Airflow-domain-etl/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-12-27T03:06:45.544+0000] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /workspaces/Airflow-domain-etl/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-12-27T03:06:45.562+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:06:45.562+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-12-27T03:06:45.576+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:06:45.576+0000] {dag.py:3823} INFO - Setting next_dagrun for example_bash_operator to 2025-12-26 00:00:00+00:00, run_after=2025-12-27 00:00:00+00:00
+[2025-12-27T03:06:45.590+0000] {processor.py:183} INFO - Processing /workspaces/Airflow-domain-etl/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.058 seconds

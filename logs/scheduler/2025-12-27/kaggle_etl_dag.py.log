@@ -1,0 +1,46 @@
+[2025-12-27T03:03:14.517+0000] {processor.py:161} INFO - Started process (PID=24985) to work on /workspaces/Airflow-domain-etl/dags/kaggle_etl_dag.py
+[2025-12-27T03:03:14.518+0000] {processor.py:830} INFO - Processing file /workspaces/Airflow-domain-etl/dags/kaggle_etl_dag.py for tasks to queue
+[2025-12-27T03:03:14.518+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:03:14.518+0000] {dagbag.py:538} INFO - Filling up the DagBag from /workspaces/Airflow-domain-etl/dags/kaggle_etl_dag.py
+[2025-12-27T03:03:15.078+0000] {processor.py:840} INFO - DAG(s) 'kaggle_domain_etl' retrieved from /workspaces/Airflow-domain-etl/dags/kaggle_etl_dag.py
+[2025-12-27T03:03:15.207+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:03:15.206+0000] {override.py:1769} INFO - Created Permission View: can delete on DAG:kaggle_domain_etl
+[2025-12-27T03:03:15.217+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:03:15.216+0000] {override.py:1769} INFO - Created Permission View: can edit on DAG:kaggle_domain_etl
+[2025-12-27T03:03:15.223+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:03:15.223+0000] {override.py:1769} INFO - Created Permission View: can read on DAG:kaggle_domain_etl
+[2025-12-27T03:03:15.224+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:03:15.223+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-12-27T03:03:15.230+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:03:15.230+0000] {dag.py:3058} INFO - Creating ORM DAG for kaggle_domain_etl
+[2025-12-27T03:03:15.231+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:03:15.231+0000] {dag.py:3823} INFO - Setting next_dagrun for kaggle_domain_etl to None, run_after=None
+[2025-12-27T03:03:15.249+0000] {processor.py:183} INFO - Processing /workspaces/Airflow-domain-etl/dags/kaggle_etl_dag.py took 0.735 seconds
+[2025-12-27T03:04:07.572+0000] {processor.py:161} INFO - Started process (PID=25923) to work on /workspaces/Airflow-domain-etl/dags/kaggle_etl_dag.py
+[2025-12-27T03:04:07.573+0000] {processor.py:830} INFO - Processing file /workspaces/Airflow-domain-etl/dags/kaggle_etl_dag.py for tasks to queue
+[2025-12-27T03:04:07.574+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:04:07.574+0000] {dagbag.py:538} INFO - Filling up the DagBag from /workspaces/Airflow-domain-etl/dags/kaggle_etl_dag.py
+[2025-12-27T03:04:07.790+0000] {processor.py:840} INFO - DAG(s) 'kaggle_domain_etl' retrieved from /workspaces/Airflow-domain-etl/dags/kaggle_etl_dag.py
+[2025-12-27T03:04:07.799+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:04:07.799+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-12-27T03:04:07.806+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:04:07.806+0000] {dag.py:3823} INFO - Setting next_dagrun for kaggle_domain_etl to None, run_after=None
+[2025-12-27T03:04:07.821+0000] {processor.py:183} INFO - Processing /workspaces/Airflow-domain-etl/dags/kaggle_etl_dag.py took 0.251 seconds
+[2025-12-27T03:04:42.405+0000] {processor.py:161} INFO - Started process (PID=26265) to work on /workspaces/Airflow-domain-etl/dags/kaggle_etl_dag.py
+[2025-12-27T03:04:42.406+0000] {processor.py:830} INFO - Processing file /workspaces/Airflow-domain-etl/dags/kaggle_etl_dag.py for tasks to queue
+[2025-12-27T03:04:42.407+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:04:42.406+0000] {dagbag.py:538} INFO - Filling up the DagBag from /workspaces/Airflow-domain-etl/dags/kaggle_etl_dag.py
+[2025-12-27T03:04:42.624+0000] {processor.py:840} INFO - DAG(s) 'kaggle_domain_etl' retrieved from /workspaces/Airflow-domain-etl/dags/kaggle_etl_dag.py
+[2025-12-27T03:04:42.634+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:04:42.634+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-12-27T03:04:42.641+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:04:42.641+0000] {dag.py:3823} INFO - Setting next_dagrun for kaggle_domain_etl to None, run_after=None
+[2025-12-27T03:04:42.656+0000] {processor.py:183} INFO - Processing /workspaces/Airflow-domain-etl/dags/kaggle_etl_dag.py took 0.253 seconds
+[2025-12-27T03:05:14.620+0000] {processor.py:161} INFO - Started process (PID=26520) to work on /workspaces/Airflow-domain-etl/dags/kaggle_etl_dag.py
+[2025-12-27T03:05:14.620+0000] {processor.py:830} INFO - Processing file /workspaces/Airflow-domain-etl/dags/kaggle_etl_dag.py for tasks to queue
+[2025-12-27T03:05:14.621+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:05:14.621+0000] {dagbag.py:538} INFO - Filling up the DagBag from /workspaces/Airflow-domain-etl/dags/kaggle_etl_dag.py
+[2025-12-27T03:05:14.857+0000] {processor.py:840} INFO - DAG(s) 'kaggle_domain_etl' retrieved from /workspaces/Airflow-domain-etl/dags/kaggle_etl_dag.py
+[2025-12-27T03:05:14.866+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:05:14.866+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-12-27T03:05:14.873+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:05:14.873+0000] {dag.py:3823} INFO - Setting next_dagrun for kaggle_domain_etl to None, run_after=None
+[2025-12-27T03:05:14.889+0000] {processor.py:183} INFO - Processing /workspaces/Airflow-domain-etl/dags/kaggle_etl_dag.py took 0.271 seconds
+[2025-12-27T03:05:47.792+0000] {processor.py:161} INFO - Started process (PID=26891) to work on /workspaces/Airflow-domain-etl/dags/kaggle_etl_dag.py
+[2025-12-27T03:05:47.793+0000] {processor.py:830} INFO - Processing file /workspaces/Airflow-domain-etl/dags/kaggle_etl_dag.py for tasks to queue
+[2025-12-27T03:05:47.794+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:05:47.794+0000] {dagbag.py:538} INFO - Filling up the DagBag from /workspaces/Airflow-domain-etl/dags/kaggle_etl_dag.py
+[2025-12-27T03:05:48.037+0000] {processor.py:840} INFO - DAG(s) 'kaggle_domain_etl' retrieved from /workspaces/Airflow-domain-etl/dags/kaggle_etl_dag.py
+[2025-12-27T03:05:48.047+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:05:48.047+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-12-27T03:05:48.055+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:05:48.054+0000] {dag.py:3823} INFO - Setting next_dagrun for kaggle_domain_etl to None, run_after=None
+[2025-12-27T03:05:48.070+0000] {processor.py:183} INFO - Processing /workspaces/Airflow-domain-etl/dags/kaggle_etl_dag.py took 0.280 seconds
+[2025-12-27T03:06:26.503+0000] {processor.py:161} INFO - Started process (PID=27370) to work on /workspaces/Airflow-domain-etl/dags/kaggle_etl_dag.py
+[2025-12-27T03:06:26.503+0000] {processor.py:830} INFO - Processing file /workspaces/Airflow-domain-etl/dags/kaggle_etl_dag.py for tasks to queue
+[2025-12-27T03:06:26.504+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:06:26.504+0000] {dagbag.py:538} INFO - Filling up the DagBag from /workspaces/Airflow-domain-etl/dags/kaggle_etl_dag.py
+[2025-12-27T03:06:26.728+0000] {processor.py:840} INFO - DAG(s) 'kaggle_domain_etl' retrieved from /workspaces/Airflow-domain-etl/dags/kaggle_etl_dag.py
+[2025-12-27T03:06:26.737+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:06:26.737+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-12-27T03:06:26.745+0000] {logging_mixin.py:188} INFO - [2025-12-27T03:06:26.744+0000] {dag.py:3823} INFO - Setting next_dagrun for kaggle_domain_etl to None, run_after=None
+[2025-12-27T03:06:26.760+0000] {processor.py:183} INFO - Processing /workspaces/Airflow-domain-etl/dags/kaggle_etl_dag.py took 0.259 seconds

@@ -140,7 +140,7 @@ This project is accompanied by a Medium article where I explain:
 - How my mindset shifted from scripts to systems
 - Why orchestration matters in data engineering
 
-📖 *Link to article coming soon*
+📖 *Link to article*:https://medium.com/@vidithardikparekh40/from-scripts-to-systems-what-building-a-personal-data-engineering-project-taught-me-e43069b654f3
 
 ---
 
